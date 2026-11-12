@@ -1,7 +1,5 @@
 Gavin Webster 🍄
 ---
-I am a front-end developer, and sometime back-end developer as well. </br>I also enjoy coding generative art. 
-
 
 About Me 🧍
 ---
