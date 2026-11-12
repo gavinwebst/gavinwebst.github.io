@@ -28,7 +28,7 @@ Skills 🎳
 - Figma
 - Adobe Photoshop
 
-Coding Projects 🖥️
+Projects 🖥️
 ---
 
 <h3>BookTracker- Full-Stack Development Project</h3>
